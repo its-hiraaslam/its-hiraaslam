@@ -115,7 +115,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=its-hiraaslam &show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="GitHub stats" height="170">
-<img src="https://streak-stats.demolab.com?user=hiraaslam-data&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170">
+<img src="https://streak-stats.demolab.com?user=its-hiraaslam&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170">
 
 </div>
 
