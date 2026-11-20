@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira_Aslam-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hira-aslam-75071a34a/)
 
-<img src="highlights.svg" alt="Highlights: 2 years administrative assistant, 1 year teaching, 3 Excel certificates, 3 projects in 2026" width="100%">
+<img src="highlights.svg" alt="Highlights: 2 years administrative assistant, 3 Excel certificates, 3 projects in 2026" width="100%">
 
 <img src="divider.svg" alt="" width="100%">
 
@@ -14,22 +14,20 @@
 
 <img src="section-about.svg" alt="About Me" width="100%">
 
-- 📊 Building my career in **data analytics** and **data visualization**
-- 🎓 Pursuing a **BBA** at Virtual University of Pakistan
-- 📚 Currently learning: *Data Analytics Basics for Everyone* (edX)
-- 🏫 Currently working as a **CRO** at The Pioneers School System
-- 🗣️ Languages: English (professional), Urdu and Punjabi (native)
+-  Building my career in **data analytics** and **data visualization**
+-  Pursuing a **BBA** at Virtual University of Pakistan
+-  Currently learning: *Analyzing Data with Excel* (edX)
+-  Currently enroll in *Aspire Leaders Program* (Aspire Institute)
+-  Languages: English, Urdu
 
 <img src="divider.svg" alt="" width="100%">
 
 <img src="section-experience.svg" alt="Experience" width="100%">
 
 | Role | Organization | Period | Highlights |
-|------|--------------|--------|------------|
-| CRO | The Pioneers School System | Current | Current role |
 | Data Analytics Job Simulation (virtual) | Deloitte, via Forage | Jul 2026 – Oct 2026 | Completed the data analytics job simulation |
 | School Administrative Assistant | School | 2023 – 2025 | Managed employee and student records and digital documentation; maintained fee records and tracked institutional expenses in MS Excel; handled official email correspondence between staff, students and administration |
-| Teacher | Alimiraj High School | 1 year | Teaching |
+
 
 <img src="divider.svg" alt="" width="100%">
 
@@ -95,8 +93,8 @@
 
 **Education**
 
-- 🎓 **Bachelor of Business Administration**, Virtual University of Pakistan (2025 – Present)
-- 🎓 **Associate Degree in Accounting & Finance**, Government College University Faisalabad (2021 – 2023)
+-  **Bachelor of Business Administration**, Virtual University of Pakistan (2025 – Present)
+-  **Associate Degree in Accounting & Finance**, Government College University Faisalabad (2021 – 2023)
 
 **Certifications**
 
@@ -104,7 +102,6 @@
 - Introduction to MS Excel, Microsoft & Simplilearn SkillUp (15 Sep 2026)
 - Microsoft Excel 365: From Beginner to Pro, Alison (completed 09 Sep 2026)
 - Data Analytics Job Simulation, Deloitte via Forage (Jul – Oct 2026)
-- Graphic Designing
 - Data Analytics Basics for Everyone, edX (in progress)
 
 <img src="divider.svg" alt="" width="100%">
