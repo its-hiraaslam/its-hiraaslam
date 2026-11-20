@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira_Aslam-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hira-aslam-75071a34a/)
 
-<img src="highlights.svg" alt="Highlights: 2 years administrative assistant, 3 Excel certificates, 3 projects in 2026" width="100%">
+<img src="highlights.svg" alt="Highlights: 2 years administrative assistant, 3 Excel certificates, 6 projects in 2026" width="100%">
 
 <img src="divider.svg" alt="" width="100%">
 
@@ -43,7 +43,7 @@
 - **Regional Sales Analytics Dashboard** (2026)
 - **Dynamic Expense Tracking Dashboard** (2026)
 - **Student Assignment Tracker** (2026)
-- - **Retail Sales Exploratory Data Analysis** (2026)
+- **Retail Sales Exploratory Data Analysis** (2026)
 - **House Price Prediction Analysis** (2026)
 - **Cafe Sales Data Cleaning** (2026)
 - **Dunhill Tobacco Company case study** (2023, GCUF): global operations, history and market positioning
