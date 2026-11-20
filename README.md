@@ -25,8 +25,9 @@
 <img src="section-experience.svg" alt="Experience" width="100%">
 
 | Role | Organization | Period | Highlights |
+| --- | --- | --- | --- |
 | Data Analytics Job Simulation (virtual) | Deloitte, via Forage | Jul 2026 – Oct 2026 | Completed the data analytics job simulation |
-| School Administrative Assistant | School | 2023 – 2025 | Managed employee and student records and digital documentation; maintained fee records and tracked institutional expenses in MS Excel; handled official email correspondence between staff, students and administration |
+| School Administrative Assistant | EFA School System | 2023 – 2025 | Managed employee and student records and digital documentation; maintained fee records and tracked institutional expenses in MS Excel; handled official email correspondence between staff, students and administration |
 
 
 <img src="divider.svg" alt="" width="100%">
@@ -42,6 +43,9 @@
 - **Regional Sales Analytics Dashboard** (2026)
 - **Dynamic Expense Tracking Dashboard** (2026)
 - **Student Assignment Tracker** (2026)
+- - **Retail Sales Exploratory Data Analysis** (2026)
+- **House Price Prediction Analysis** (2026)
+- **Cafe Sales Data Cleaning** (2026)
 - **Dunhill Tobacco Company case study** (2023, GCUF): global operations, history and market positioning
 
 <img src="divider.svg" alt="" width="100%">
@@ -110,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiraaslam-data&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=its-hiraaslam &show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="GitHub stats" height="170">
 <img src="https://streak-stats.demolab.com?user=hiraaslam-data&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170">
 
 </div>
